@@ -54,7 +54,7 @@ Artificial Intelligence Group is a collective effort to bring a strong AI commun
 | :--- | :--- | :--- |
 | BPTI | Baltic Institute of Advanced Technology (BPTI) is a private, high quality research-oriented institute, creating and developing new technologies. | www.bpti.eu |
 | KTU | Kaunas University of Technology | www.ktu.edu/ |
-
+| VDU | Vytauto Didžiojo Universitetas | www.vdu.lt |
 
 ## What is an AI Company?
 
